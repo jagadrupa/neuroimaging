@@ -1,0 +1,38 @@
+# ---- OS ----
+.DS_Store
+
+# ---- LaTeX build artifacts ----
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.synctex.gz
+
+# ---- Third-party course materials (not redistributed, any folder) ----
+lectures/
+lecture*.pdf
+lecture*.key
+STAtutorial.pdf
+math_tutorial*.pdf
+subtitle*.txt
+*.pickle
+*.srt
+*.vtt
+Solving the RC circuit equations.pdf
+Suppl*.pdf
+*Lecture Notes*.pdf
+
+# ---- Source and figures kept local; the built notes PDFs are published ----
+*.tex
+figs/
+
+# ---- Misc ----
+basisfunctions.pdf
+*.listing
+*.bak
