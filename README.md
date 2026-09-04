@@ -5,7 +5,10 @@ course, written in LaTeX.
 
 📄 **[neuroimaging_notes.pdf](neuroimaging_notes.pdf)**
 
-## Week 1 — The Anatomy Behind the Image
+One notes document covers the whole course, growing as each week is added.
+Lecture material for each week lives in its own numbered folder.
+
+## 01 — Structural Neuroanatomy of the Brain
 
 *Module 1 — introduction.* The growth of MRI from a handful of papers in the early 1990s to over 16,000 in 2014, and from 106 data points in 1977 to over 10 billion in a single study · multi-site consortia such as ADNI, and why modern neuroimaging is a genuine big-data problem · neuroscience as the multidisciplinary study of the biological basis of behaviour, its disciplines and its branches · and neuroimaging as a *method* used across those branches rather than a branch of its own.
 
@@ -15,7 +18,13 @@ course, written in LaTeX.
 
 *Module 4 — vascular anatomy.* Why an imaging course cares about blood at all, given that fMRI measures a blood-derived signal rather than neural activity · the route from aorta through common carotid to the internal carotid artery · the Circle of Willis, and why a ring provides collateral supply · the major cerebral arteries, and the distinction between vessels that feed the circle and vessels that leave it · and cortical vascular territories, which explain why blockages produce characteristic deficits.
 
+*Terminology of brain organisation.* The rostral–caudal and dorso–ventral axes as defined for four-legged animals, and why standing upright breaks that scheme · the human replacements — anterior, posterior, superior, inferior, medial, lateral · three planes under two sets of names, frontal/coronal, transverse/axial and sagittal · stating positions on several axes at once · why an MRI image cannot show which side is left, since the same picture results from viewing the person from the front or from behind · radiological and neurological convention, and how mixing them reports a finding in the wrong hemisphere with nothing looking amiss · fiducial markers as the physical fix · and proximal, distal, ipsilateral, contralateral and oblique.
+
 ## Notes on sources
+
+Parts are named by content rather than by module number: the source decks label
+themselves inconsistently, with two decks both called "Module 3" and the vascular
+material appearing under two different numbers.
 
 LaTeX sources and figures are kept local, so the `.tex` file and `figs/` are not
 in the repo — the built PDF above is the readable output. Lecture slides and
