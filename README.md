@@ -3,10 +3,11 @@
 My study notes for the Johns Hopkins *Fundamental Neuroscience for Neuroimaging*
 course, written in LaTeX.
 
+> **About this public copy.** These are my own notes (course certificate: 13 Jul 2020). Lecture slides have been removed; each is replaced by a short description of what it showed.
+
 📄 **[neuroimaging_notes.pdf](neuroimaging_notes.pdf)**
 
 One notes document covers the whole course, growing as each week is added.
-Lecture material for each week lives in its own numbered folder.
 
 ## 01 — Structural Neuroanatomy of the Brain
 
